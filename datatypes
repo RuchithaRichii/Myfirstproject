@@ -1,0 +1,8 @@
+a=10
+type(a)
+b=17.3
+type(b)
+c=5>8
+type(c)
+d="Hello, world!"
+type(d)
